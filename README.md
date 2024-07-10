@@ -1,4 +1,4 @@
 # firt-repo
-firt code
+ uthor-firt code
 <br>
 ankit
